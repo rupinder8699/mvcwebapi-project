@@ -1,0 +1,60 @@
+﻿@model WMvcStu.ViewModel.EnrollmentViewModel
+@{
+    ViewBag.Title = "EnrollCre";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Enrollment</h2>
+
+<div align="center">
+    @using (Html.BeginForm("EnrollCre", "Enrollment", FormMethod.Post))
+    {
+    <table class="table">
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.enro.Name)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.enro.Name)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.enro.Mobile)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.enro.Mobile)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.enro.CurrentQualification)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.enro.CurrentQualification)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.enro.Course)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.enro.Course)
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+
+            <td>
+                <input type="submit" value="Save" />
+            </td>
+        </tr>
+    </table>
+    }
+</div>
+
+

@@ -1,0 +1,233 @@
+E:\projects\nz\WebApiStu\WMvcStu\bin\WMvcStu.dll.config
+E:\projects\nz\WebApiStu\WMvcStu\bin\WMvcStu.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\WMvcStu.pdb
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\csc.exe
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\csc.exe.config
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\csc.rsp
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\csi.exe
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\csi.exe.config
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\csi.rsp
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.AppContext.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Console.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.IO.Compression.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.IO.FileSystem.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.IO.Pipes.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Security.AccessControl.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Security.Claims.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Security.Principal.Windows.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.ValueTuple.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XPath.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\vbc.exe
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\vbc.exe.config
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\vbc.rsp
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\VBCSCompiler.exe
+E:\projects\nz\WebApiStu\WMvcStu\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\nz\WebApiStu\WMvcStu\bin\Antlr3.Runtime.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\Newtonsoft.Json.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Net.Http.Formatting.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Helpers.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Mvc.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Optimization.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Razor.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.WebPages.Deployment.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.WebPages.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.WebPages.Razor.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\WebGrease.dll
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Net.Http.Formatting.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Helpers.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Mvc.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Optimization.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.Razor.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.WebPages.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.WebPages.Deployment.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\System.Web.WebPages.Razor.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\Newtonsoft.Json.xml
+E:\projects\nz\WebApiStu\WMvcStu\bin\Antlr3.Runtime.pdb
+E:\projects\nz\WebApiStu\WMvcStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\nz\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csprojAssemblyReference.cache
+E:\projects\nz\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csproj.CoreCompileInputs.cache
+E:\projects\nz\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csproj.CopyComplete
+E:\projects\nz\WebApiStu\WMvcStu\obj\Debug\WMvcStu.dll
+E:\projects\nz\WebApiStu\WMvcStu\obj\Debug\WMvcStu.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\WMvcStu.dll.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\WMvcStu.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\WMvcStu.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\csc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\csc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\csc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\csi.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\csi.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\csi.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.AppContext.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Console.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.IO.Compression.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.IO.Pipes.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Security.Claims.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.ValueTuple.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XPath.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\vbc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\vbc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\vbc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\VBCSCompiler.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\Antlr3.Runtime.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\Newtonsoft.Json.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Net.Http.Formatting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Helpers.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Mvc.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Optimization.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.WebPages.Deployment.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.WebPages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.WebPages.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\WebGrease.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Net.Http.Formatting.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Helpers.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Mvc.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Optimization.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.WebPages.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.WebPages.Deployment.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\System.Web.WebPages.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\Newtonsoft.Json.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\Antlr3.Runtime.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csprojAssemblyReference.cache
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csproj.CoreCompileInputs.cache
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csproj.CopyComplete
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\obj\Debug\WMvcStu.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiStu\WMvcStu\obj\Debug\WMvcStu.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\WMvcStu.dll.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\WMvcStu.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\WMvcStu.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\csc.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\csc.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\csc.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\csi.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\csi.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\csi.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.AppContext.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Console.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\vbc.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\vbc.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\vbc.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\Antlr3.Runtime.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\Newtonsoft.Json.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Helpers.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Mvc.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Optimization.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Razor.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.WebPages.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\WebGrease.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Net.Http.Formatting.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Helpers.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Mvc.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Optimization.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.Razor.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.WebPages.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\Newtonsoft.Json.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\Antlr3.Runtime.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csprojAssemblyReference.cache
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csproj.CoreCompileInputs.cache
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\obj\Debug\WMvcStu.csproj.CopyComplete
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\obj\Debug\WMvcStu.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WMvcStu\obj\Debug\WMvcStu.pdb

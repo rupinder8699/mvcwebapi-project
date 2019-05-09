@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Student Details</h2>
+
+
+<div align="left">
+    @Html.ActionLink("Create", "Create", "Student", new { area = "" }, null)
+    <br /><br />
+    <table cellpadding="2"
+           class="table"
+           cellspacing="2"
+           border="1">
+        <tr >
+            <th> Student Name</th>
+            <th> Class</th>
+            <th> Father Name</th>
+            <th> Mother Name</th>
+            <th>Date Of Birth</th>
+            <th> Action</th>
+        </tr>
+        @foreach (var Stud in ViewBag.listStudents)
+        {
+        <tr class="btn-success">
+
+            <td>
+                @Stud.StudentName
+            </td>
+            <td>
+                @Stud.Class
+            </td>
+            <td>
+                @Stud.FatherName
+            </td>
+            <td>
+                @Stud.MotherName
+            </td>
+            <td>
+                @Stud.DateOfBirth.ToString("dd/MM/yyyy")
+            </td>
+            <td>
+                <a onclick="return confirm('Do you want to Delete?')"
+                   href="@Url.Action("Delete","Student",new {id= Stud.StudentId})">Delete</a> ||
+                <a href="@Url.Action("Edit","Student",new {id= Stud.StudentId})">Edit</a>
+            </td>
+
+        </tr>
+        }
+    </table>
+</div>

@@ -1,0 +1,68 @@
+﻿@model WMvcStu.ViewModel.StudentViewModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Create</h2>
+
+<div align = "center" >
+@using (Html.BeginForm("create", "Student", FormMethod.Post))
+{
+    <table class="table">
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.student.StudentName)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.student.StudentName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.student.Class)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.student.Class)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.student.FatherName)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.student.FatherName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.student.MotherName)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.student.MotherName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.student.DateOfBirth)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.student.DateOfBirth)
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+
+            <td>
+                <input type="submit" value="Save"  />
+            </td>
+        </tr>
+    </table>
+}
+    </div>

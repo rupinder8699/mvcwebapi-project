@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "EnrollDet";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Enrollment Details</h2>
+
+<div align="left">
+    <table cellpadding="2"
+           class="table"
+           cellspacing="2"
+           border="1">
+        <tr>
+            <th> Name</th>
+            <th> Mobile</th>
+            <th> Current Qualification</th>
+            <th> Course</th>
+        </tr>
+        @foreach (var Prod in ViewBag.listenrollment)
+        {
+        <tr class="btn-success">
+            <td>
+                @Prod.Name
+            </td>
+            <td>
+                @Prod.Mobile
+            </td>
+            <td>
+                @Prod.CurrentQualification
+            </td>
+            <td>
+                @Prod.Course
+            </td>
+        </tr>
+        }
+    </table>
+</div>
+

@@ -1,0 +1,194 @@
+E:\projects\nz\WebApiStu\WApiStu\bin\WApiStu.dll.config
+E:\projects\nz\WebApiStu\WApiStu\bin\WApiStu.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\WApiStu.pdb
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\csc.exe
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\csc.exe.config
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\csc.rsp
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\csi.exe
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\csi.exe.config
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\csi.rsp
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.AppContext.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Console.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.IO.Compression.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.IO.FileSystem.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.IO.Pipes.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Security.AccessControl.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Security.Claims.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Security.Principal.Windows.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.ValueTuple.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Xml.XPath.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\vbc.exe
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\vbc.exe.config
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\vbc.rsp
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\VBCSCompiler.exe
+E:\projects\nz\WebApiStu\WApiStu\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\nz\WebApiStu\WApiStu\bin\Antlr3.Runtime.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\EntityFramework.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\EntityFramework.SqlServer.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Newtonsoft.Json.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\Owin.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Net.Http.Formatting.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Helpers.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Http.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Http.WebHost.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Mvc.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Optimization.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Razor.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.WebPages.Deployment.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.WebPages.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.WebPages.Razor.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\WebGrease.dll
+E:\projects\nz\WebApiStu\WApiStu\bin\EntityFramework.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\EntityFramework.SqlServer.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\Newtonsoft.Json.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Net.Http.Formatting.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Helpers.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Http.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Http.WebHost.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Mvc.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Optimization.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.Razor.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.WebPages.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.WebPages.Deployment.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\System.Web.WebPages.Razor.xml
+E:\projects\nz\WebApiStu\WApiStu\bin\Antlr3.Runtime.pdb
+E:\projects\nz\WebApiStu\WApiStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\nz\WebApiStu\WApiStu\obj\Debug\WApiStu.csprojAssemblyReference.cache
+E:\projects\nz\WebApiStu\WApiStu\obj\Debug\WApiStu.csproj.CoreCompileInputs.cache
+E:\projects\nz\WebApiStu\WApiStu\obj\Debug\WApiStu.csproj.CopyComplete
+E:\projects\nz\WebApiStu\WApiStu\obj\Debug\WApiStu.dll
+E:\projects\nz\WebApiStu\WApiStu\obj\Debug\WApiStu.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\WApiStu.dll.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\WApiStu.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\WApiStu.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\csc.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\csc.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\csc.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\csi.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\csi.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\csi.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.AppContext.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Console.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\vbc.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\vbc.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\vbc.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Antlr3.Runtime.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\EntityFramework.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\EntityFramework.SqlServer.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Newtonsoft.Json.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Owin.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Net.Http.Formatting.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Helpers.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Http.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Http.WebHost.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Mvc.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Optimization.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Razor.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.WebPages.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\WebGrease.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\EntityFramework.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\EntityFramework.SqlServer.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Newtonsoft.Json.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Net.Http.Formatting.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Helpers.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Http.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Http.WebHost.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Mvc.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Optimization.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.Razor.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.WebPages.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Antlr3.Runtime.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\obj\Debug\WApiStu.csprojAssemblyReference.cache
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\obj\Debug\WApiStu.csproj.CoreCompileInputs.cache
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\obj\Debug\WApiStu.csproj.CopyComplete
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\obj\Debug\WApiStu.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiStu\WApiStu\obj\Debug\WApiStu.pdb

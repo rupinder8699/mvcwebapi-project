@@ -1,0 +1,40 @@
+﻿@model WMvcPro.ViewModel.LogInViewModel
+@{
+    ViewBag.Title = "LogIn";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>LogIn</h2>
+
+<div align="center">
+    @using (Html.BeginForm("LogIn", "LogIn", FormMethod.Post))
+    {
+        <table class="table">
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.logIn.UserName)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.logIn.UserName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.logIn.Password)
+                </td>
+
+                <td>
+                    @Html.PasswordFor(model => model.logIn.Password)
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+
+                <td>
+                    <input type="submit" value="Submit"  />
+                </td>
+            </tr>
+        </table>
+    }
+</div>
